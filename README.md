@@ -66,10 +66,6 @@
 </html>
 
 
-
-<!--Parte de CSS--> 
-
-
 /* Paleta de cores */
 :root {
     --cor-principal: #005b96;
@@ -128,6 +124,3 @@
       padding: 15px;
     }
   }
-
-  
-
